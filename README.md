@@ -1,6 +1,6 @@
 # LinkedListKelasA
 
-File ini menggunakan syntax `markdown`
+File ini menggunakan syntax `markdown`. Kolaborasi mahasiswa STIKI kelas pemrograman dasar II untuk membuat implementasi linked list menggunakan java.
 
 # Bagaimana berkolaborasi?
 * Install git
