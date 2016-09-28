@@ -15,5 +15,10 @@ File ini menggunakan syntax `markdown`. Kolaborasi mahasiswa STIKI kelas pemrogr
     - Nama, NRP (url ke github profile)
 * `qpop()` 5 orang
 * `spop()` 5 orang
+    - Imam Baihaqi, 151111048 (https://github.com/ImamHQ)
+    - Teguh Hidayanto, 151111053 (https://github.com/teguhhidayanto)
+    - I Made Bisma Gargita, 151111068 (https://github.com/bismagargita)
+    - Alfin Novri Falahin, 151111080 (https://github.com/alfinstikimalang)
+    - Aryo Wibowo, 151111089 (https://github.com/Aryow)
 * `insert(Node newNode, Node position)` 6 orang
 * `delete(Node position)` // 6 orang
