@@ -34,6 +34,9 @@ class LinkedList{
     }
     public Node qpop(){ // 5 orang
         // TODO: write the code, pop node (queue), return it
+        Node temp = head.next;
+        head = temp;
+        temp.prev=null;
         return null;
     }
     public Node spop(){ // 5 orang
