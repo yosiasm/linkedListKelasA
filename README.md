@@ -14,9 +14,17 @@ File ini menggunakan syntax `markdown`. Kolaborasi mahasiswa STIKI kelas pemrogr
 * `push(Node newNode)` 5 orang
     - Nama, NRP (url ke github profile)
 * `qpop()` 5 orang
+<<<<<<< HEAD
     - Roiyan Zadana Al Fauzi, 151-111-073 (github.com/roiyan)
     - Windy, 151-111-098 (github.com/th3win)
     - Mitsaq Enigma Al Afghan (github.com/mitsaqenigma)
+=======
+    - dicky irfan nursandi, 151111005(https://github.com/dickyirfan)
+    - yosias suparno, 151111010(https://github.com/yosiasm)
+    - ganis ilham ashary, 151111020(https://github.com/GanizGunner)
+    - irvan muhmmad, 151111025(https://github.com/RezaCip)
+    - wahyu imansyah, 151111126(https://github.com/wahyuimansyah)
+>>>>>>> 536c8ca8a7bcdcf78ed5679d87bdb3702d6370df
 * `spop()` 5 orang
     - Imam Baihaqi, 151111048 (https://github.com/ImamHQ)
     - Teguh Hidayanto, 151111053 (https://github.com/teguhhidayanto)
