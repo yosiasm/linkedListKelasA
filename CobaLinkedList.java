@@ -34,6 +34,14 @@ class LinkedList{
     }
     public Node qpop(){ // 5 orang
         // TODO: write the code, pop node (queue), return it
+        if(head == null && tail == null){ // empty linked list
+            head = newNode;
+            tail = newNode;
+        }else{ // non-empty linked list
+            tail.next     = newNode;
+            newNode.prev = tail;
+            tail          = newNode;
+    
         return null;
     }
     public Node spop(){ // 5 orang
@@ -85,4 +93,4 @@ public class CobaLinkedList {
     }
     
 }
-
+//BISMA Lebih Kece :V:
