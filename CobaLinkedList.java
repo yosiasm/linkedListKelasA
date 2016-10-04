@@ -37,8 +37,14 @@ class LinkedList{
         return null;
     }
     public Node spop(){ // 5 orang
-        // TODO: write the code, pop node (stack), return it
-        return null;
+        if(head != null){
+            Node temp = head;
+            head = head.next;
+            temp.next = null;
+            return temp;
+        } else {
+            System.out.println("List Kosong.");
+            return null;}
     }
     public void insert(Node newNode, Node position){ // 6 orang
         // TODO: insert newNode after position
