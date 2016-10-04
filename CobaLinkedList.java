@@ -95,4 +95,4 @@ public class CobaLinkedList {
     }
     
 }
-
+//BISMA Lebih Kece :V:
