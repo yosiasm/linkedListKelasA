@@ -31,6 +31,11 @@ class LinkedList{
     }
     public void push(Node newNode){ // 5 orang
         // TODO: write the code, add newNode
+        if(head == null){
+        
+        }else{
+        
+        }
     }
     public Node qpop(){ // 5 orang
         // TODO: write the code, pop node (queue), return it
