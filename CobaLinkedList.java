@@ -48,7 +48,7 @@ class LinkedList{
     }
     public Node spop(){ // 5 orang
         if(head != null){
-            Node temp = head;
+            Node temp = head;// disimpan sementara dalam temp
             head = head.next;
             temp.next = null;
             return temp;
