@@ -12,8 +12,12 @@ File ini menggunakan syntax `markdown`. Kolaborasi mahasiswa STIKI kelas pemrogr
 * Skeleton:
     - Go Frendi (https://github.com/goFrendiAsgard)
 * `push(Node newNode)` 5 orang
-    - Nama, NRP (url ke github profile)
-* `qpop()` 10 orang
+    - Nikki Rufiansya, 151-111-035 (https://github.com/NikkiRufiansya)
+    - Akmalul hikam, 151-111-027 (https://github.com/AKMALULHIKAM)
+    - Daniel Eko, 151-111-007 (https://github.com/cheimuns)
+    - Raden Rama Jakalana, 151-111-043 (https://github.com/fleametaphore)
+    - Nando Suchlistio, 151-111-077 (https://github.com/NandoSuchlistio)
+* `qpop()` 5 orang
     - Roiyan Zadana Al Fauzi, 151-111-073 (github.com/roiyan)
     - Windy, 151-111-098 (github.com/th3win)
     - Mitsaq Enigma Al Afghan (github.com/mitsaqenigma)
